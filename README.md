@@ -1,2 +1,0 @@
-# Ghoul
-KoplaxsBot Edited
